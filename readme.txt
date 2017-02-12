@@ -1,6 +1,8 @@
 import pandas as pd
 import numpy as np
 import talib
+Lyzheng
+
 
 class technical_Analysis:
     def __init__(self,data_day,data_week):
